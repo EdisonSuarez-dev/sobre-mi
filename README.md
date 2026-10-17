@@ -1,6 +1,6 @@
 # sobre-mi
 
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Edison Darley 👋
 
 Soy aprendiz de [tu programa de formación].
 
